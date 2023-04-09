@@ -1,6 +1,5 @@
 # BingAI (ChatGPT)
 
-## Bing AI API for ChatGPT
 
 # Star Feature - No Manual Intervention Required
 ```
