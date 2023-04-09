@@ -8,7 +8,7 @@
 pip install bingai --upgrade
 ```
 
-## Important Feature - No Manual Intervention Required
+# Star Feature - No Manual Intervention Required
 ```
 100% Programmatic Run
 Edge browser opens up and automatically fetches tokens, no manual intervention whatsoever
