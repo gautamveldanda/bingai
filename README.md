@@ -2,16 +2,16 @@
 
 ## Bing AI API for ChatGPT
 
-### Installation
-
-```
-pip install bingai --upgrade
-```
-
 # Star Feature - No Manual Intervention Required
 ```
 100% Programmatic Run
 Edge browser opens up and automatically fetches tokens, no manual intervention whatsoever
+```
+
+### Installation
+
+```
+pip install bingai --upgrade
 ```
 
 ### Usage
